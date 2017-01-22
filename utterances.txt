@@ -1,0 +1,9 @@
+SendSms send my {destination} {text}
+SendSms send {destination} {text}
+SendSms text {destination} you are a {text} 
+
+workout i want to work my {muscle}
+workout lets work some {muscle}
+workout help me with my {muscle}
+workout make me work my {muscle}
+workout work my {muscle}

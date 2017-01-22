@@ -1,0 +1,27 @@
+{
+"intents": 
+  [
+    {
+      "intent": "SendSms",
+      "slots": [
+          {
+          "name": "destination",
+          "type": "LIST_OF_DESTINATIONS"
+          },
+          {
+            "name" : "text",
+            "type" : "LIST_TEXT"
+          }
+      ]
+    },
+    {
+      "intent": "workout", 
+      "slots": [
+      		{
+              "name" : "muscle",
+              "type" : "LIST_OF_MUSCLES"
+            }
+      ]
+    }
+      ]
+}
